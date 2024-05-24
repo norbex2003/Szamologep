@@ -5,9 +5,7 @@ namespace Szamologep
     class Program
     {
         static void Main(string[] args)
-        {
-
-            Console.WriteLine("As of version 2.0, there will be two separate apps for the English and Hungarian console calculator apps.");
+        { 
             Console.WriteLine("2.0 verzió esetében angol nyelv eltávolításra került! Később másik app lesz az angol nyelv");
             Console.WriteLine("Írj be egy számot!");
             double a = Convert.ToInt32(Console.ReadLine());
