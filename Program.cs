@@ -5,8 +5,8 @@ namespace Szamologep
     class Program
     {
         static void Main(string[] args)
-        { 
-            Console.WriteLine("2.0 verzió esetében angol nyelv eltávolításra került! Később másik app lesz az angol nyelv");
+        {
+            Console.WriteLine("1.0 verzió esetében angol nyelv eltávolításra került! Később másik app lesz az angol nyelv");
             Console.WriteLine("Írj be egy számot!");
             double a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Írj be még egy számot!");

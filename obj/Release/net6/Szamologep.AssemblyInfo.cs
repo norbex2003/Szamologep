@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Szamologep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30e2469e811ac6646d9c361abcb6e1ca0b52aa8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+386bae7473e850dde066e8334868eae42c1df4c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Szamologep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Szamologep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
