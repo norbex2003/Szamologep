@@ -20,7 +20,7 @@ namespace Szamologep
             Console.WriteLine($"Ez az A és B változó összeadásának eredménye: {osszeadas}");
             Console.WriteLine($"Ez az A és B változó kivonásának eredménye: {kivonas}");
             Console.WriteLine($"Ez az A és B változó szorzásának eredménye: {szorzas}");
-            Console.WriteLine($"Ez az A és B változó szorzásának eredménye: {osztas}");
+            Console.WriteLine($"Ez az A és B változó osztásának eredménye: {osztas}");
             Console.ReadKey();
         }
     }
