@@ -1,0 +1,2 @@
+# Szamologep
+C# CMD számológép.
