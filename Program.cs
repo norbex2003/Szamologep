@@ -7,9 +7,9 @@ namespace Szamologep
         static void Main(string[] args)
         {
             Console.WriteLine("1.0 verzió esetében angol nyelv eltávolításra került! Később másik app lesz az angol nyelv");
-            Console.WriteLine("Írj be egy számot!");
+            Console.WriteLine("Kérek egy számot!");
             double a = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Írj be még egy számot!");
+            Console.WriteLine("Kérek még egy számot!");
             double b = Convert.ToInt32(Console.ReadLine());
             double osszeadas = Math.Round(a + b, 4);
             double kivonas = Math.Round(a - b, 4);
@@ -17,10 +17,10 @@ namespace Szamologep
             double osztas = Math.Round(a / b, 4);
 
             //Változókkal való müveletek eredményének a kiiratása!
-            Console.WriteLine($"Ez az A és B változó összeadásának eredménye: {osszeadas}");
-            Console.WriteLine($"Ez az A és B változó kivonásának eredménye: {kivonas}");
-            Console.WriteLine($"Ez az A és B változó szorzásának eredménye: {szorzas}");
-            Console.WriteLine($"Ez az A és B változó osztásának eredménye: {osztas}");
+            Console.WriteLine($"Az összeadásának eredménye: {osszeadas}");
+            Console.WriteLine($"A kivonásának eredménye: {kivonas}");
+            Console.WriteLine($"A szorzásának eredménye: {szorzas}");
+            Console.WriteLine($"Az osztásának eredménye: {osztas}");
             Console.ReadKey();
         }
     }
